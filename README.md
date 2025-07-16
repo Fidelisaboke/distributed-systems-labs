@@ -51,6 +51,6 @@ distributed-systems-labs/
 - Refer to the lab manual for step-by-step guidance (if provided).
 - Clone the repo and explore different modules:
   ```bash
-  git clone https://github.com/your-username/distributed-systems-lab.git
-  cd distributed-systems-lab
+  git clone https://github.com/Fidelisaboke/distributed-systems-labs.git
+  cd distributed-systems-labs
   ```
