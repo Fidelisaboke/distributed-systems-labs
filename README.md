@@ -39,8 +39,9 @@ distributed-systems-labs/
 ├── mpi/
 ├── clock-synchronization/
 ├── mutual-exclusion/
-├── election-algorithms/
-├── web-services/
+├── leader_election/
+├── web_services/
+├── lab_images/    # Images of the labs done
 └── lab-manual.pdf # (if available)
 ```
 
