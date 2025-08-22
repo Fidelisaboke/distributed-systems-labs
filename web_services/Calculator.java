@@ -1,4 +1,4 @@
-package com.unique; 
+package web_services;
 import javax.jws.WebService; 
 import javax.jws.WebMethod; 
 import javax.jws.WebParam; 
